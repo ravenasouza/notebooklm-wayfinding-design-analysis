@@ -30,4 +30,4 @@ O uso do NotebookLM permitiu conectar pontos que seriam difíceis de visualizar 
 ## Autoria
 
 **Ravena Souza**  
-Projeto prático desenvolvido para o curso **Santander - Excel com Inteligência Artificial**
+Projeto prático desenvolvido para o curso **Riachuelo - Cibersegurança**
